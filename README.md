@@ -174,7 +174,7 @@ Open your browser and navigate to **`http://localhost:5173`**.
 This project is open-source and available under the [MIT License](LICENSE).
 good to go
 ---
-
+good
 ##  Acknowledgements
 
 - Built for **Prasunethon 2.0 Hackathon 2026**
