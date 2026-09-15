@@ -154,7 +154,7 @@ The platform incorporates a multi-tier clinical knowledge base derived from ICAR
 - **Browser Geolocation Precision:** GPS positioning depends on browser web APIs; dedicated mobile builds (React Native/Android) can utilize hardware GNSS for sub-meter accuracy.
 
 ---
-
+// good
 ## 7. Future Scope & Roadmap
 
 - **Computer Vision Integration:** Train custom YOLOv8 / ResNet models on localized Indian livestock disease image datasets for automated visual lesion classification.
